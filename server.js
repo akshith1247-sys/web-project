@@ -1,6 +1,7 @@
 const express = require('express');
 const app = express();
-const port = 1611
+const port = process.env.PORT || 1611;
+app.use(express.static("frontend"))
 app.listen(port,function(){
     console.log("my app is running at http://localhost:"+port)
 })
