@@ -4,8 +4,8 @@ h1{
 
 .card{
     border-style: solid;
-    border-width: 10px;
-    border-color:whitesmoke;
+    border-width: 5px;
+    border-color:black;
     width : 300px;
     border-radius: 30px;
     overflow:hidden;
@@ -25,7 +25,8 @@ h1{
 
 }
 body{
-    background-color: black;
+    background-color:antiquewhite; 
+    margin:0px
 }
 
 .card button{
@@ -33,4 +34,24 @@ body{
     border-radius:15px;
     padding:10px;
     margin-bottom:15px;
+}
+
+.zoro{
+    text-align:center;
+    border: 3px solid antiquewhite;
+    padding-bottom :25px;
+    padding-top: 25px;
+    background-color:aliceblue;
+
+}
+
+.zoro a{
+    margin-right:15px;
+    color:black;
+    text-decoration:none;
+}
+
+.zoro a:hover{
+    color: black;
+    text-decoration: underline
 }
