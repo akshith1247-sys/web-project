@@ -4,8 +4,8 @@ h1{
 
 .card{
     border-style: solid;
-    border-width: 2px;
-    border-color: rgba(255, 192, 231, 0.633);
+    border-width: 10px;
+    border-color:whitesmoke;
     width : 300px;
     border-radius: 30px;
     overflow:hidden;
@@ -16,7 +16,7 @@ h1{
     margin-left:auto;
     margin-right:auto;
 
-    background-color:rgb(0, 255, 251);
+    background-color:white;
 
 }
 
@@ -25,7 +25,7 @@ h1{
 
 }
 body{
-    background-color: #aeba0ca1;
+    background-color: black;
 }
 
 .card button{
