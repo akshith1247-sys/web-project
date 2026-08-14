@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/akshith1247-sys/web-project#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
   }
 }
